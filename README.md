@@ -16,4 +16,6 @@ Before applying any machine learning or statistical methods, it is crucial to un
 3.	Some of the features have a Bimodal distribution.
 4.	Outliers are present in the data.
 
+![](images/histograms.PNG)
+
 
