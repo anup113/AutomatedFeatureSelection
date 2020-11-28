@@ -1,6 +1,6 @@
 # A Model for Automated Feature Selection 
 
-we investigate multiple techniques and purpose a model for dealing with the feature selection which have been the focus in areas of application for datasets with hundreds and thousands of variables. To this end we utilize a dataset which was prepared artificially for examining feature selection techniques. Our investigation clearly shows that feature selection in datasets where variables do not have significance can enhance the predictive ability of a machine learning algorithm. 
+We investigate multiple techniques and purpose a model for dealing with the feature selection which have been the focus in areas of application for datasets with hundreds and thousands of variables. To this end we utilize a dataset which was prepared artificially for examining feature selection techniques. Our investigation clearly shows that feature selection in datasets where variables do not have significance can enhance the predictive ability of a machine learning algorithm. 
 
 MADELON is an artificial dataset containing data points grouped in 32 clusters placed on the vertices of a five-dimensional hypercube and randomly labeled +1 or -1. The five dimensions constitute 501 features. The dataset was obtained from the UCI Machine Learning Repository
 
